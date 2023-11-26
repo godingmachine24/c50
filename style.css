@@ -1,0 +1,30 @@
+h1{
+    color:aqua;
+}
+.header{
+    border:solid;
+    color:red;
+    display:flex;
+    justify-content:space-between;
+}
+
+.menu{
+    border:solid;
+    color:blueviolet;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    color:gold;
+    
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+.item{
+    display:flex;
+    justify-content:space-evenly;
+}
